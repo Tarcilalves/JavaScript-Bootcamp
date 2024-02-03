@@ -1,0 +1,10 @@
+Conhecendo Funções JavaScript
+
+Funções são pequenos trechos de códigos que podemos invocar quando quiser.
+Function teste(){
+	Console.log(‘teste’)
+}
+
+Há várias formas de invocar uma função:
+•	A mais simples: teste();
+Podemos invocar ele quantas vezes precisar sem precisar repetir o código.
